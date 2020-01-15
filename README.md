@@ -1,1 +1,1 @@
-# CS-Project-Handwriting-Analyzer-
+# CS-Project-Handwriting-Analyzer
